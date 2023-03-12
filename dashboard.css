@@ -1,0 +1,46 @@
+.smallcontainer{
+    border: 3px none;
+    display:inline-block;
+    width:23%;
+    height: 700px;
+    background-color:wheat;
+}
+.bigcontainer{
+    border: 3px none ;
+    display:inline-block;
+    width:76%;
+    height: 700px;
+    background-image:url(https://lh3.googleusercontent.com/p/AF1QipMQJeD3W9QZwY2Px6-iql0erXeEq1zfrcQ78YyO=s680-w680-h510);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    border: 1px dashed red;
+    height :80px;
+    background-color: bisque;
+    width: 99%;
+}
+h3{
+    font-size: 30px;
+    display: inline-block;
+    vertical-align:auto;
+}
+img{
+    height:40px ;
+    width: 40px;
+    display: inline-block;
+}
+.i2{
+    height:40px ;
+    width: 250px;
+    display: inline-block;
+
+}
+i{
+    vertical-align:top;
+}
+label{
+    font-size: 21px;
+    
+}
